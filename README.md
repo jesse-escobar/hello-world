@@ -1,2 +1,2 @@
 # hello-world
-I am an analyst using data science for positive change
+When not dabbling with data, I enjoy soccer, rock climbing, reading, and playing video and arcade games. 
